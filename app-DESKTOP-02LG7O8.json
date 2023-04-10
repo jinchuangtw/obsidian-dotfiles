@@ -1,0 +1,12 @@
+{
+  "livePreview": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "/圖片區",
+  "promptDelete": false
+}
